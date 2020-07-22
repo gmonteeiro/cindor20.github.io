@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1dcc36d49cc353a7e96b6d12cecd0f1f",
+    "revision": "dbd905f2a829139a214a06092e241c07",
     "url": "/cindor20.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cindor20.github.io/static/css/2.53823a3d.chunk.css"
   },
   {
-    "revision": "5810700b19bc8e322e2a",
+    "revision": "29b2a3984f20479be080",
     "url": "/cindor20.github.io/static/css/main.a354bfdc.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cindor20.github.io/static/js/2.eaad3622.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5810700b19bc8e322e2a",
-    "url": "/cindor20.github.io/static/js/main.7b60a6f6.chunk.js"
+    "revision": "29b2a3984f20479be080",
+    "url": "/cindor20.github.io/static/js/main.ba65f4dc.chunk.js"
   },
   {
     "revision": "670dc56f927c29794e81",
